@@ -1,37 +1,27 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
+  "name": "Samuel Morris",
+  "label": "Senior System Engineer",
   "image_path": "img/default-image.png",
   "contact": {
-    "email": "FirstLast@Sample.com",
+    "email": "sam_morris66@hotmail.com",
     "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "location": "Pottsville, NSW, Australia"
   },
   "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
       "label": "First Social",
       "url": "https://sample.com",
       "svg_path": "img/linkedin.svg"
-    },
-    {
-      "label": "Second Social",
-      "url": "https://sample.com",
-      "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
+      "company": "Commonwealth Bank of Australia",
+      "position": "Senior System Engineer",
       "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "start_date": "13/02/2024",
       "end_date": "Present",
       "summary": "Short summary about present job and what the position entails",
       "highlights": [
@@ -159,12 +149,12 @@
   ],
   "skills": [
     {
-      "name": "My First Skill",
+      "name": "Python",
       "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "My Second Skill",
+      "name": "Go",
       "proficiency": 80,
       "proficiency_label": "Proficiency Level"
     }
@@ -203,10 +193,6 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
     }
   ],
   "references": [
